@@ -1,4 +1,4 @@
-package com.core.s1.primitives;
+package com.core.s3.primitives;
 
 public class PrimitiveTypes {
 	public static void main(String[] args) {

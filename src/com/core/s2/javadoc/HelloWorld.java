@@ -1,4 +1,4 @@
-package com.core.s1.javadoc;
+package com.core.s2.javadoc;
 /**
  * 
  * Hello World application
