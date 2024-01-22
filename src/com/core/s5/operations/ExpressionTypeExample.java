@@ -1,4 +1,4 @@
-package com.core.s5.operators;
+package com.core.s5.operations;
 
 public class ExpressionTypeExample {
 

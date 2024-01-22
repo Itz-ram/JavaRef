@@ -1,4 +1,4 @@
-package com.core.s5.operators;
+package com.core.s5.operations;
 
 import java.math.BigDecimal;
 import java.math.RoundingMode;
