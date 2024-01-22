@@ -7,13 +7,13 @@ public class AreaOfTriangle {
 		Scanner sc = new Scanner(System.in);
 
 		System.out.print("Please, enter A side of a triangle: ");
-		int a = sc.nextInt();
+		double a = sc.nextDouble();
 
 		System.out.print("Please, enter B side of a triangle: ");
-		int b = sc.nextInt();
+		double b = sc.nextDouble();
 
 		System.out.print("Please, enter C side of a triangle: ");
-		int c = sc.nextInt();
+		double c = sc.nextDouble();
 		double p = (double)(a + b + c)/2;
 		
 		
